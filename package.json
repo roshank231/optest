@@ -19,9 +19,9 @@
   "author": "fedew",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/fedew04/OnePaceStremio/issues"
+    "url": "https://github.com/roshank231/optest"
   },
-  "homepage": "https://github.com/fedew04/OnePaceStremio",
+  "homepage": "https://github.com/roshank231/optest",
   "dependencies": {
     "magnet-uri": "^6.2.0",
     "stremio-addon-sdk": "^1.6.10"
