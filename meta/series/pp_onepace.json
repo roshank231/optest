@@ -28,19 +28,22 @@
                 "season": 1,
                 "episode": 2,
                 "id": "RO_2",
-                "title": "They Call Him 'Straw Hat' Luffy"
+                "title": "They Call Him 'Straw Hat' Luffy",
+                "Thumbnail": "https://onepace.net/images/episodes/cover-romance-dawn-02.webp"
             },
             {
                 "season": 1,
                 "episode": 3,
                 "id": "RO_3",
-                "title": "The Pirate King and the Master Swordsman"
+                "title": "The Pirate King and the Master Swordsman",
+                "Thumbnail": "https://onepace.net/images/episodes/cover-romance-dawn-03.webp"
             },
             {
                 "season": 1,
                 "episode": 4,
                 "id": "RO_4",
-                "title": "The First"
+                "title": "The First",
+                "Thumbnail": "https://onepace.net/images/episodes/cover-romance-dawn-04.webp"
             },
             {
                 "season": 2,
