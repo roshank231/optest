@@ -15,14 +15,14 @@
             "Toei Animation"
         ],
         "logo": "https://onepace.net/images/one-pace-logo.svg",
-        "background": "https://onepace.net/_next/image?url=%2Fimages%2Fepisodes%2Fcover-wano-01.webp&w=750&q=30",
+        "background": "https://wallpaperaccess.com/full/17350.jpg",
         "videos": [
             {
                 "season": 1,
                 "episode": 1,
                 "id": "RO_1",
                 "title": "Romance Dawn, the Dawn of an Adventure",
-                "thumbnail": "https://i.ibb.co/qYWwLBF/testfirst.png"
+                "thumbnail": "https://onepace.net/_next/image?url=%2Fimages%2Fepisodes%2Fcover-wano-01.webp&w=750&q=30"
             },
             {
                 "season": 1,
