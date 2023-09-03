@@ -1,7 +1,15 @@
-{ 
-"streams": [ 
-        { 
-            "infoHash": "c345a0dc89a9d20b9cbdad787b0bd80c34f52809" 
-        } 
-   ] 
-} 
+{
+  "streams": [
+    {
+      "url": "https://real-debrid.com/d/YDAR5QL3N5BDQ",
+      "behaviorHints": {
+        "notWebReady": true,
+        "proxyHeaders": {
+          "request": {
+            "Authorization": "PZIONBBAXPHOBVOHTCSKJ4AI7O36RYRI63YGCQNYLM62U74AVVTQ"
+          }
+        }
+      }
+    }
+  ]
+}
