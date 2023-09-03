@@ -7,6 +7,7 @@
         "proxyHeaders": {
           "request": {
             "Authorization": "PZIONBBAXPHOBVOHTCSKJ4AI7O36RYRI63YGCQNYLM62U74AVVTQ"
+            "User-Agent": "Stremio"
           }
         }
       }
