@@ -542,81 +542,27 @@
                 "title": "Unreleased",
                 "thumbnail": "https://onepace.net/images/episodes/cover-arabasta-21.webp"
             },
-            
-            
-{
-  "season" : 12,
-  "episode" : 22,
-  "id" : "ALOG_121",
-  "title" : "One Piece Episode 121",
-  "thumbnail" : ""
-},
-{
-  "season" : 12,
-  "episode" : 23,
-  "id" : "ALOG_122",
-  "title" : "One Piece Episode 122",
-  "thumbnail" : ""
-},
-{
-  "season" : 12,
-  "episode" : 24,
-  "id" : "ALOG_123",
-  "title" : "One Piece Episode 123",
-  "thumbnail" : ""
-},
-{
-  "season" : 12,
-  "episode" : 25,
-  "id" : "ALOG_124",
-  "title" : "One Piece Episode 124",
-  "thumbnail" : ""
-},
-{
-  "season" : 12,
-  "episode" : 26,
-  "id" : "ALOG_125",
-  "title" : "One Piece Episode 125",
-  "thumbnail" : ""
-},
-{
-  "season" : 12,
-  "episode" : 27,
-  "id" : "ALOG_126",
-  "title" : "One Piece Episode 126",
-  "thumbnail" : ""
-},
-{
-  "season" : 12,
-  "episode" : 28,
-  "id" : "ALOG_127",
-  "title" : "One Piece Episode 127",
-  "thumbnail" : ""
-},
-{
-  "season" : 12,
-  "episode" : 29,
-  "id" : "ALOG_128",
-  "title" : "One Piece Episode 128",
-  "thumbnail" : ""
-},
-{
-  "season" : 12,
-  "episode" : 30,
-  "id" : "ALOG_129",
-  "title" : "One Piece Episode 129",
-  "thumbnail" : ""
-},
-{
-  "season" : 12,
-  "episode" : 31,
-  "id" : "ALOG_130",
-  "title" : "One Piece Episode 130",
-  "thumbnail" : ""
-},
-
-
-            
+            {
+                "season" : 12,
+                "episode" : 22,
+                "id" : "ALOG_121",
+                "title" : "One Piece Kai, 120 - Hope for the Sand Kingdom (120-123)",
+                "thumbnail" : "https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/063736e62a3deb2031bb32c4d883d195.jpe"
+            },
+            {
+                "season" : 12,
+                "episode" : 23,
+                "id" : "ALOG_122",
+                "title" : "One Piece Kai, 120 - Crocodile (124-126),
+                "thumbnail" : "https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/f37c688368d79ad91fce89f59f283da3.jpe"
+            },
+            {
+                "season" : 12,
+                "episode" : 24,
+                "id" : "ALOG_123",
+                "title" : "One Piece Kai, 120 - A Kingdom Restored (127-130),
+                "thumbnail" : "https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/e589e3221145a17bacdcc102e8181efc.jpe"
+            },
             {
                 "season": 13,
                 "episode": 1,
