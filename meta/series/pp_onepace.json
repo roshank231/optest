@@ -535,11 +535,6 @@
                 "title": "Unreleased",
                 "thumbnail": "https://onepace.net/images/episodes/cover-arabasta-20.webp"
             },
-
-
-
-
-            
             {
                 "season": 12,
                 "episode": 21,
@@ -547,11 +542,20 @@
                 "title": "Unreleased",
                 "thumbnail": "https://onepace.net/images/episodes/cover-arabasta-21.webp"
             },
+
+
+
+
+
+            
+
+
+            
             {
                 "season" : 12,
                 "episode" : 22,
                 "id" : "ALOG_121",
-                "title" : "One Piece Kai, - Hope for the Sand Kingdom (120-123)",
+                "title" : "One Piece Kai, - Hope for the Sand Kingdom (120-123) - (Skip to 121)",
                 "thumbnail" : "https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/063736e62a3deb2031bb32c4d883d195.jpe",
                 "overview": "Skip ahead to catch up to the end of the last one Pace episode (121 - 123 is the goal)"
             },
@@ -569,6 +573,10 @@
                 "title" : "One Piece Kai, - A Kingdom Restored (127-130)",
                 "thumbnail" : "https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/e589e3221145a17bacdcc102e8181efc.jpe"
             },
+
+
+
+            
 
 
 
@@ -606,7 +614,7 @@
                 "episode": 5,
                 "id": "JA_5",
                 "title": "Let's Eat",
-                "thumbnail": "https://onepace.net/images/episodes/cover-jaya-05.webp"
+                "thumbnail": "https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/69156a7865ab12946616a4f90bbec88c.jpe"
             },
             {
                 "season": 13,
@@ -637,7 +645,7 @@
                 "season": 13,
                 "episode": 9,
                 "id": "JA_KAI_27",
-                "title": "One Piece Kai, - The Hundred Million Man (148-152)",
+                "title": "One Piece Kai, - The Hundred Million Man (148-152) - (Skip to 150)",
                 "thumbnail": "https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/da912579a68d8b2ad28ecb086b6ce0cc.jpe",
                 "overview": "Skip ahead to catch up to the end of the last one Pace episode (150-152 is the target)"
             },
@@ -826,7 +834,7 @@
               "season" : 14,
               "episode" : 25,
               "id" : "SK_KAI_29",
-              "title": "One Piece Kai, - Upper Yard - Overture (158-164)",
+              "title": "One Piece Kai, - Upper Yard - Overture (158-164) - (Skip to 160)",
               "thumbnail": "https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/bc70329168dad93d1469f3a1e3e6013b.jpe",
               "overview": "Skip ahead to catch up to the end of the last one Pace episode (160-164 is the target)"
             },
@@ -834,43 +842,43 @@
               "season" : 14,
               "episode" : 26,
               "id" : "SK_KAI_30",
-              "title" : "One Piece Episode 30",
-              "thumbnail" : ""
+              "title" : "One Piece Kai, - Survival Game - Aubade (165-170)",
+              "thumbnail" : "https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/559ac753900d3bd987bcf4f5efc4e9e7.jpe"
             },
             {
               "season" : 14,
               "episode" : 27,
               "id" : "SK_KAI_31",
-              "title" : "One Piece Episode 31",
-              "thumbnail" : ""
+              "title" : "One Piece Kai, - Shandora - March (171-175)",
+              "thumbnail" : "https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/57cd2bf95a7aa77cdfa3f59d2d900ffd.jpe"
             },
             {
               "season" : 14,
               "episode" : 28,
               "id" : "SK_KAI_32",
-              "title" : "One Piece Episode 32",
-              "thumbnail" : ""
+              "title" : "One Piece Kai, - Divine Comedy - Concerto (176-180, beginning of 181)",
+              "thumbnail" : "https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/7c048f3067abe3f429afe160774bd54f.jpe"
             },
             {
               "season" : 14,
               "episode" : 29,
               "id" : "SK_KAI_33",
-              "title" : "One Piece Episode 33",
-              "thumbnail" : ""
+              "title" : "One Piece Kai, - Vs. Eneru/Enel - Capriccio (rest of 181, 182-186)",
+              "thumbnail" : "https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/8ee7af513287c74d498cd5e7c26b472b.jpe"
             },
             {
               "season" : 14,
               "episode" : 30,
               "id" : "SK_KAI_34",
-              "title" : "One Piece Episode 34",
-              "thumbnail" : ""
+              "title" : "One Piece Kai, - Noland - Bolero (187-189)",
+              "thumbnail" : "https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/752df5cd4b5167ddbdc051fd60f31067.jpe"
             },
             {
               "season" : 14,
               "episode" : 31,
               "id" : "SK_KAI_35",
-              "title" : "One Piece Episode 35",
-              "thumbnail" : ""
+              "title" : "One Piece Kai, - Golden Bell Symphony (190-195)",
+              "thumbnail" : "https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/d7c66cf4377728a2e25a6aba13d9c3f1.jpe"
             },
             
 
@@ -926,6 +934,14 @@
                 "title": "Navy HQ Admiral Aokiji",
                 "thumbnail": "https://onepace.net/images/episodes/cover-long-ring-long-land-06.webp"
             },
+
+
+
+
+
+
+
+            
             {
                 "season": 16,
                 "episode": 1,
@@ -1066,6 +1082,68 @@
                 "title": "Unreleased",
                 "thumbnail": "https://onepace.net/images/episodes/cover-water-seven-20.webp"
             },
+
+
+
+            
+
+
+            
+            {
+                "season": 16,
+                "episode": 21,
+                "id": "WS_KAI_42",
+                "title": "One Piece Kai, - Tom's Workers (248-251) (Skip to 250)",
+                "thumbnail": "https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/ed6fd9abe2c2b0a2e213d75ad46cce56.jpe"
+            },
+            {
+                "season": 16,
+                "episode": 22,
+                "id": "WS_KAI_43",
+                "title": "One Piece Kai, - Aqua Laguna (252-256)",
+                "thumbnail": "www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/dbb369428e4ab4e4c899372b5ab72b04.jpe"
+            },
+            {
+                "season": 16,
+                "episode": 23,
+                "id": "WS_KAI_44",
+                "title": "One Piece Kai, - Sea Train Battle Game (257-262)",
+                "thumbnail": "https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/1253e2a9b0031d6be32451b159d22f9b.jpe"
+            },
+
+
+
+            
+            {
+                "season": 16,
+                "episode": 24,
+                "id": "WS_KAI_263",
+                "title": "One Piece Kai, - Enies Lobby (263)",
+                "thumbnail": "www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/e6aaffdd155432d24f3e240a3c11432b.jpe"
+            },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
             {
                 "season": 17,
                 "episode": 1,
