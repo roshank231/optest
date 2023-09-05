@@ -814,11 +814,65 @@
                 "title": "Unreleased",
                 "thumbnail": "https://onepace.net/images/episodes/cover-skypiea-24.webp"
             },
-    
 
 
 
 
+            
+
+            
+
+            {
+              "season" : 12,
+              "episode" : 25,
+              "id" : "SK_KAI_29",
+              "title": "One Piece Kai, - Upper Yard - Overture (158-164)",
+              "thumbnail": "https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/bc70329168dad93d1469f3a1e3e6013b.jpe",
+              "overview": "Skip ahead to catch up to the end of the last one Pace episode (160-164 is the target)"
+            },
+            {
+              "season" : 12,
+              "episode" : 26,
+              "id" : "SK_KAI_30",
+              "title" : "One Piece Episode 30",
+              "thumbnail" : ""
+            },
+            {
+              "season" : 12,
+              "episode" : 27,
+              "id" : "SK_KAI_31",
+              "title" : "One Piece Episode 31",
+              "thumbnail" : ""
+            },
+            {
+              "season" : 12,
+              "episode" : 28,
+              "id" : "SK_KAI_32",
+              "title" : "One Piece Episode 32",
+              "thumbnail" : ""
+            },
+            {
+              "season" : 12,
+              "episode" : 29,
+              "id" : "SK_KAI_33",
+              "title" : "One Piece Episode 33",
+              "thumbnail" : ""
+            },
+            {
+              "season" : 12,
+              "episode" : 30,
+              "id" : "SK_KAI_34",
+              "title" : "One Piece Episode 34",
+              "thumbnail" : ""
+            },
+            {
+              "season" : 12,
+              "episode" : 31,
+              "id" : "SK_KAI_35",
+              "title" : "One Piece Episode 35",
+              "thumbnail" : ""
+            },
+            
 
 
 
