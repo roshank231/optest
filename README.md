@@ -8,3 +8,7 @@ Mirrored from: https://github.com/fedew04/OnePaceStremio
 - Alternate posers/background art
 
 add using https://raw.githubusercontent.com/roshank231/optest/main/manifest.json in the addon search bar
+
+or
+
+stremio://raw.githubusercontent.com/roshank231/optest/main/manifest.json
