@@ -20,14 +20,12 @@ For a complete episode list that includes the Kai episodes, you may need to dele
 
 ### Desktop
 
-#### Method 1: Addon Search Bar
+#### Method 1: [Click Here](https://app.strem.io/shell-v4.4/#/addons/community/all?addon=https%3A%2F%2Fraw.githubusercontent.com%2Froshank231%2Foptest%2Fmain%2Fmanifest.json)
+
+#### Method 2: Addon Search Bar
 
 1. Copy the following link: `https://raw.githubusercontent.com/roshank231/optest/main/manifest.json`
 2. Open Stremio and paste the link into the addon search bar.
-
-#### Method 2: Browser
-
-1. Copy and paste the following link into your browser: `stremio://raw.githubusercontent.com/roshank231/optest/main/manifest.json`
 
 ### Android
 
