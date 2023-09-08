@@ -1,24 +1,45 @@
-# optest
+# OnePace X OnePiece Kai Stremio Addon
 
-Mirrored from: https://github.com/fedew04/OnePaceStremio
+## Overview
 
+### This project is just a mod of the Orginal addon you  can find here: [OnePace addon](https://github.com/fedew04/OnePaceStremio)
 
-- Added thumbnails
-- Added One Piece KAI (Subbed) to fill missing episodes as appropriate
-- Alternate posers/background art
+This addon integrates One Piece KAI episodes to fill in missing sections in One Pace, specifically for the Jaya Arc, Arabasta Arc, Skypiea Arc, and Water 7. Once installed on your Stremio account, the addon will sync across all platforms.
 
-add using https://raw.githubusercontent.com/roshank231/optest/main/manifest.json in the addon search bar
+### Important Note for Android Users
 
-or
+For a complete episode list that includes the Kai episodes, you may need to delete the original OnePace addon from your Android app.
 
-stremio://raw.githubusercontent.com/roshank231/optest/main/manifest.json
+## Features
 
-paste the above link into a browser for desktop install
+- Added thumbnails for a better visual experience
+- Integrated One Piece KAI (Subbed) to fill in missing episodes
+- Alternate posters and background art for a richer UI
 
-You can't install through url on the android app, but you can login to the Web app on android and add it there by hitting add addon and using the above link.
+## Installation
 
-addons will sync accross all platform when installed once on your stremio account.
+### Desktop
 
-message me of you have any issues.
+#### Method 1: Addon Search Bar
 
+1. Copy the following link: `https://raw.githubusercontent.com/roshank231/optest/main/manifest.json`
+2. Open Stremio and paste the link into the addon search bar.
 
+#### Method 2: Browser
+
+1. Copy and paste the following link into your browser: `stremio://raw.githubusercontent.com/roshank231/optest/main/manifest.json`
+
+### Android
+
+**Note**: Direct URL installation is not supported on the Android app. (Installing on Desktop is recommended, addons will sync from there)
+
+1. Log in to the Stremio Web app on your Android device.
+2. Navigate to "Add Addon" and use the following link: `https://raw.githubusercontent.com/roshank231/optest/main/manifest.json`
+
+## Support
+
+If you encounter any issues or have questions, feel free to message me.
+
+---
+
+Happy streaming!
