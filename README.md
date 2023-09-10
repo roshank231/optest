@@ -6,9 +6,11 @@
 
 This addon integrates One Piece KAI episodes to fill in missing sections in One Pace, specifically for the Jaya Arc, Arabasta Arc, Skypiea Arc, and Water 7. Once installed on your Stremio account, the addon will sync across all platforms.
 
-### Important Note for Android Users
+### Important Notes:
 
-For a complete episode list that includes the Kai episodes, you may need to delete the original OnePace addon from your Android app.
+- For a complete episode list that includes the Kai episodes, you may need to delete the original OnePace addon.
+- Subtitles don't work properly in ExoPlayer, this is especially noticeable in Android variants of Stremtiom, Go to Settings --> Player --> Switch to LibVLC for a much better experience. You can also "open in VLC" if you are on Desktop
+- You can also set Stremio to default to Japenese as the preferred language in Stremio settings if you find the English dub playing as default whilst trying to watch subbed.
 
 ## Features
 
