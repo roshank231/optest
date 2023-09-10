@@ -40,6 +40,10 @@ This addon integrates One Piece KAI episodes to fill in missing sections in One 
 1. Log in to the Stremio Web app on your Android device.
 2. Navigate to "Add Addon" and use the following link: `https://raw.githubusercontent.com/roshank231/optest/main/manifest.json`
 
+## Final Notes
+
+This Addon mainly focuses on pre-time skip arcs once you get past "impel Down" there are no more gaps filled by One Piece KAI, you are better off switching to the original [OnePace addon](https://github.com/fedew04/OnePaceStremio) as this is being actively updated with the latest episodes as the one pace team release them.
+
 ## Support
 
 If you encounter any issues or have questions, feel free to message me.
