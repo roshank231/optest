@@ -9,8 +9,8 @@ This addon integrates One Piece KAI episodes to fill in missing sections in One 
 ### Important Notes:
 
 - For a complete episode list that includes the Kai episodes, you may need to delete the original OnePace addon.
-- Subtitles don't work properly in ExoPlayer, this is especially noticeable in Android variants of Stremtiom, Go to Settings --> Player --> Switch to LibVLC for a much better experience. You can also "open in VLC" if you are on Desktop
-- You can also set Stremio to default to Japenese as the preferred language in Stremio settings if you find the English dub playing as default whilst trying to watch subbed.
+- Subtitles don't work properly in ExoPlayer, this is especially noticeable in Android variants of Stremio, Go to Settings --> Player --> Switch to LibVLC for a much better experience. You can also "open in VLC" if you are on Desktop
+- You can also set Stremio to default to Japanese as the preferred language in Stremio settings if you find the English dub playing as default whilst trying to watch subbed.
 
 ## Features
 
@@ -31,11 +31,11 @@ This addon integrates One Piece KAI episodes to fill in missing sections in One 
 
 ### Android
 
-**Note**: Direct URL installation is not supported on the Android app. (Installing on Desktop is recommended, addons will sync from there)
+**Note**: Direct URL installation is not supported on the Android app for mobile. (Installing on Desktop is recommended, addons will sync from there, or you can install it via the web-app using method 1)
 
 #### Method 1: [Click Here](https://app.strem.io/shell-v4.4/#/addons/community/all?addon=https%3A%2F%2Fraw.githubusercontent.com%2Froshank231%2Foptest%2Fmain%2Fmanifest.json)
 
-#### Method 2: Manual Install
+#### Method 2: Manual Install (Android TV)
 
 1. Log in to the Stremio Web app on your Android device.
 2. Navigate to "Add Addon" and use the following link: `https://raw.githubusercontent.com/roshank231/optest/main/manifest.json`
