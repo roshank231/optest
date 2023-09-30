@@ -4,7 +4,7 @@
 
 ### This project is just a mod of the Orginal addon you  can find here: [OnePace addon](https://github.com/fedew04/OnePaceStremio)
 
-This addon integrates One Piece KAI episodes to fill in missing sections in One Pace, specifically for the Jaya Arc, Arabasta Arc, Skypiea Arc, and Water 7. Once installed on your Stremio account, the addon will sync across all platforms.
+This addon integrates One Piece KAI episodes to fill in missing sections in One Pace, specifically for the Arabasta Arc, Skypiea Arc, and Water 7. Once installed on your Stremio account, the addon will sync across all platforms.
 
 ### Important Notes:
 
@@ -44,6 +44,8 @@ This addon integrates One Piece KAI episodes to fill in missing sections in One 
 
 This Addon mainly focuses on pre-time skip arcs once you get past "impel Down" there are no more gaps filled by One Piece KAI, you are better off switching to the original [OnePace addon](https://github.com/fedew04/OnePaceStremio) as this is being actively updated with the latest episodes as the one pace team release them.
 
+- 30/09/23 - Jaya Updated
+
 ## Support
 
 If you encounter any issues or have questions, feel free to message me.
@@ -51,3 +53,4 @@ If you encounter any issues or have questions, feel free to message me.
 ---
 
 Happy streaming!
+
