@@ -676,21 +676,21 @@
                 "season": 14,
                 "episode": 6,
                 "id": "SK_6",
-                "title": "Unreleased",
+                "title": "The Village Hidden in the Clouds",
                 "thumbnail": "https://onepace.net/images/episodes/cover-skypiea-06.webp"
             },
             {
                 "season": 14,
                 "episode": 7,
                 "id": "SK_7",
-                "title": "Unreleased",
+                "title": "Overture",
                 "thumbnail": "https://onepace.net/images/episodes/cover-skypiea-07.webp"
             },
             {
                 "season": 14,
                 "episode": 8,
                 "id": "SK_8",
-                "title": "Unreleased",
+                "title": "Vearth",
                 "thumbnail": "https://onepace.net/images/episodes/cover-skypiea-08.webp"
             },
             {
@@ -815,18 +815,11 @@
 
             {
               "season" : 14,
-              "episode" : 25,
-              "id" : "SK_KAI_29",
-              "title": "One Piece Kai, - Upper Yard - Overture (158-164) - (Skip to 160)",
-              "thumbnail": "https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/bc70329168dad93d1469f3a1e3e6013b.jpe",
-              "overview": "Skip ahead to catch up to the end of the last one Pace episode (160-164 is the target)"
-            },
-            {
-              "season" : 14,
               "episode" : 26,
               "id" : "SK_KAI_30",
-              "title" : "One Piece Kai, - Survival Game - Aubade (165-170)",
-              "thumbnail" : "https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/559ac753900d3bd987bcf4f5efc4e9e7.jpe"
+              "title" : "One Piece Kai, - Survival Game - Aubade (165-170) - (Skip to 167)",
+              "thumbnail" : "https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/559ac753900d3bd987bcf4f5efc4e9e7.jpe",
+              "overview": "Skip ahead to catch up to the end of the last one Pace episode (167-170 is the target)"
             },
             {
               "season" : 14,
