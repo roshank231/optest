@@ -45,6 +45,7 @@ This addon integrates One Piece KAI episodes to fill in missing sections in One 
 This Addon mainly focuses on pre-time skip arcs once you get past "impel Down" there are no more gaps filled by One Piece KAI, you are better off switching to the original [OnePace addon](https://github.com/fedew04/OnePaceStremio) as this is being actively updated with the latest episodes as the one pace team release them.
 
 - 30/09/23 - Jaya Updated
+- 29/10/23 - Buggy's Crew, Skypiea & Wano Updated
 
 ## Support
 
