@@ -3109,8 +3109,57 @@
                 "season": 32,
                 "episode": 33,
                 "id": "WA_33",
-                "title": "Unreleased",
+                "title": "The Promised Port",
                 "thumbnail": "https://onepace.net/images/episodes/cover-wano-33.webp"
+            },
+            {
+                "season": 32,
+                "episode": 34,
+                "id": "WA_34",
+                "title": "The Day of the Mountain God",
+                "thumbnail": "https://onepace.net/images/episodes/cover-wano-34.webp"
+            },
+            {
+                "season": 32,
+                "episode": 35,
+                "id": "WA_35",
+                "title": "Unreleased",
+                "thumbnail": "https://onepace.net/images/episodes/cover-wano-35.webp"
+            },
+            {
+                "season": 32,
+                "episode": 36,
+                "id": "WA_36",
+                "title": "Unreleased",
+                "thumbnail": "https://onepace.net/images/episodes/cover-wano-36.webp"
+            },
+            {
+                "season": 32,
+                "episode": 37,
+                "id": "WA_37",
+                "title": "Unreleased",
+                "thumbnail": "https://onepace.net/images/episodes/cover-wano-37.webp"
+            },
+            {
+                "season": 32,
+                "episode": 38,
+                "id": "WA_38",
+                "title": "Unreleased",
+                "thumbnail": "https://onepace.net/images/episodes/cover-wano-38.webp"
+            },
+            {
+                "season": 32,
+                "episode": 39,
+                "id": "WA_39",
+                "title": "Unreleased",
+                "thumbnail": "https://onepace.net/images/episodes/cover-wano-39.webp"
+            },
+            {
+                "season": 32,
+                "episode": 40,
+                "id": "WA_40",
+                "title": "Unreleased",
+                "thumbnail": "https://onepace.net/images/episodes/cover-wano-40.webp"
             }
         ]
     }
