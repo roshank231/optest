@@ -46,7 +46,7 @@ This Addon mainly focuses on pre-time skip arcs once you get past "impel Down" t
 
 - 30/09/23 - Jaya Updated
 - 29/10/23 - Buggy's Crew, Skypiea & Wano Updated
-- 01/11/23 - Fixed s28e16 title
+- 01/11/23 - Fixed title for s28e16, Changed s11e03 to s11e01
 
 ## Support
 
