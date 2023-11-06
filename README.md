@@ -22,23 +22,23 @@ This addon integrates One Piece KAI episodes to fill in missing sections in One 
 
 ### Desktop
 
-#### Method 1: [Click Here](https://app.strem.io/shell-v4.4/#/addons/community/all?addon=https%3A%2F%2Fraw.githubusercontent.com%2Froshank231%2Foptest%2Fmain%2Fmanifest.json)
+#### Method 1: [Click Here](https://app.strem.io/shell-v4.4/#/addons/community/all?addon=https%3A%2F%2Fraw.githubusercontent.com%2Ftrulow%2Fonepace-stremio%2Fonepaceio%2Fmanifest.json)
 
 #### Method 2: Manual Install
 
-1. Copy the following link: `https://raw.githubusercontent.com/roshank231/optest/main/manifest.json`
+1. Copy the following link: `[https://raw.githubusercontent.com/roshank231/optest/main/manifest.json](https://raw.githubusercontent.com/trulow/onepace-stremio/onepaceio/manifest.json)`
 2. Open Stremio and paste the link into the addon search bar.
 
 ### Android
 
 **Note**: Direct URL installation is not supported on the Android app for mobile. (Installing on Desktop is recommended, addons will sync from there, or you can install it via the web-app using method 1)
 
-#### Method 1: [Click Here](https://app.strem.io/shell-v4.4/#/addons/community/all?addon=https%3A%2F%2Fraw.githubusercontent.com%2Froshank231%2Foptest%2Fmain%2Fmanifest.json)
+#### Method 1: [Click Here](https://app.strem.io/shell-v4.4/#/addons/community/all?addon=https%3A%2F%2Fraw.githubusercontent.com%2Ftrulow%2Fonepace-stremio%2Fonepaceio%2Fmanifest.json)
 
 #### Method 2: Manual Install (Android TV)
 
 1. Log in to the Stremio Web app on your Android device.
-2. Navigate to "Add Addon" and use the following link: `https://raw.githubusercontent.com/roshank231/optest/main/manifest.json`
+2. Navigate to "Add Addon" and use the following link: `[https://raw.githubusercontent.com/roshank231/optest/main/manifest.json](https://raw.githubusercontent.com/trulow/onepace-stremio/onepaceio/manifest.json)`
 
 ## Final Notes
 
