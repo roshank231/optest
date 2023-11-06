@@ -26,7 +26,7 @@ This addon integrates One Piece KAI episodes to fill in missing sections in One 
 
 #### Method 2: Manual Install
 
-1. Copy the following link: `[https://raw.githubusercontent.com/roshank231/optest/main/manifest.json](https://raw.githubusercontent.com/trulow/onepace-stremio/onepaceio/manifest.json)`
+1. Copy the following link: `https://raw.githubusercontent.com/trulow/onepace-stremio/onepaceio/manifest.json`
 2. Open Stremio and paste the link into the addon search bar.
 
 ### Android
@@ -38,7 +38,7 @@ This addon integrates One Piece KAI episodes to fill in missing sections in One 
 #### Method 2: Manual Install (Android TV)
 
 1. Log in to the Stremio Web app on your Android device.
-2. Navigate to "Add Addon" and use the following link: `[https://raw.githubusercontent.com/roshank231/optest/main/manifest.json](https://raw.githubusercontent.com/trulow/onepace-stremio/onepaceio/manifest.json)`
+2. Navigate to "Add Addon" and use the following link: `https://raw.githubusercontent.com/trulow/onepace-stremio/onepaceio/manifest.json`
 
 ## Final Notes
 
