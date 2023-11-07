@@ -28,7 +28,7 @@
                 "season": 1,
                 "episode": 2,
                 "id": "RO_2",
-                "title": "They Call Him 'Straw Hat' Luffy",
+                "title": "They Call Him \"Straw Hat\" Luffy",
                 "thumbnail": "https://onepace.net/images/episodes/cover-romance-dawn-02.webp"
             },
             {
@@ -63,7 +63,7 @@
                 "season": 2,
                 "episode": 3,
                 "id": "OR_3",
-                "title": "Pirate Buggy 'the Clown'",
+                "title": "Pirate Buggy \"the Clown\"",
                 "thumbnail": "https://onepace.net/images/episodes/cover-orange-town-03.webp"
             },
             {
@@ -147,7 +147,7 @@
                 "season": 5,
                 "episode": 5,
                 "id": "BA_5",
-                "title": "Pearl-san",
+                "title": "Pearl",
                 "thumbnail": "https://onepace.net/images/episodes/cover-baratie-05.webp"
             },
             {
@@ -168,7 +168,7 @@
                 "season": 5,
                 "episode": 8,
                 "id": "BA_8",
-                "title": "The Mighty Battle Spear",
+                "title": "The Stalwart War Spear",
                 "thumbnail": "https://onepace.net/images/episodes/cover-baratie-08.webp"
             },
             {
@@ -203,7 +203,7 @@
                 "season": 6,
                 "episode": 4,
                 "id": "AR_4",
-                "title": "Bell-mère-san",
+                "title": "Bell-mère",
                 "thumbnail": "https://onepace.net/images/episodes/cover-arlong-park-04.webp"
             },
             {
@@ -252,7 +252,7 @@
                 "season": 7,
                 "episode": 1,
                 "id": "BUGGYS_CREW_1",
-                "title": "[Cover Story] The Adventures of Buggy's Crew",
+                "title": "The Adventures of Buggy's Crew",
                 "thumbnail": "https://onepace.net/images/episodes/cover-the-adventures-of-buggys-crew-01.webp"
             },
             {
@@ -308,7 +308,7 @@
                 "season": 11,
                 "episode": 1,
                 "id": "COVER_KOBYMEPPO_1",
-                "title": "[Cover Story] The Trials of Koby-Meppo",
+                "title": "The Trials of Koby-Meppo",
                 "thumbnail": "https://onepace.net/images/episodes/cover-the-trials-of-koby-meppo-01.webp"
             },
             {
@@ -662,7 +662,7 @@
                 "season": 16,
                 "episode": 3,
                 "id": "SK_3",
-                "title": "Divine Judgment",
+                "title": "Divine Reckoning",
                 "thumbnail": "https://onepace.net/images/episodes/cover-skypiea-03.webp"
             },
             {
@@ -676,7 +676,7 @@
                 "season": 16,
                 "episode": 5,
                 "id": "SK_5",
-                "title": "Satori, Priest of the Forest of No Return",
+                "title": "Adventure on God's Island",
                 "thumbnail": "https://onepace.net/images/episodes/cover-skypiea-05.webp"
             },
             {
@@ -936,7 +936,7 @@
                 "season": 18,
                 "episode": 2,
                 "id": "WS_2",
-                "title": "Iceburg-san",
+                "title": "Mr. Iceburg",
                 "thumbnail": "https://onepace.net/images/episodes/cover-water-seven-02.webp"
             },
             {
@@ -1013,7 +1013,7 @@
                 "season": 18,
                 "episode": 13,
                 "id": "WS_13",
-                "title": "Tom-san",
+                "title": "Mr. Tom",
                 "thumbnail": "https://onepace.net/images/episodes/cover-water-seven-13.webp"
             },
             {
@@ -1074,14 +1074,6 @@
             
             {
                 "season": 18,
-                "episode": 21,
-                "id": "WS_KAI_42",
-                "title": "One Piece Kai, - Tom's Workers (248-251) (Skip to 250)",
-                "thumbnail": "https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/ed6fd9abe2c2b0a2e213d75ad46cce56.jpe",
-                "overview": "Skip ahead to catch up to the end of the last one Pace episode (250 - 251 is the goal)"
-            },
-            {
-                "season": 18,
                 "episode": 22,
                 "id": "WS_KAI_43",
                 "title": "One Piece Kai, - Aqua Laguna (252-256)",
@@ -1123,7 +1115,7 @@
                 "season": 19,
                 "episode": 3,
                 "id": "EN_3",
-                "title": "Express to Enies Lobby, Main Island",
+                "title": "Express to the Main Island of Enies Lobby",
                 "thumbnail": "https://onepace.net/images/episodes/cover-enies-lobby-03.webp"
             },
             {
@@ -3116,7 +3108,7 @@
                 "season": 34,
                 "episode": 33,
                 "id": "WA_33",
-                "title": "The Promised Port",
+                "title": "The Designated Port",
                 "thumbnail": "https://onepace.net/images/episodes/cover-wano-33.webp"
             },
             {
