@@ -49,6 +49,7 @@ This Addon mainly focuses on pre-time skip arcs once you get past "impel Down" t
 - 01/11/23 - Fixed title for Fishman Island s28e16, Changed The Trials of Koby-Meppo s11e03 to s11e01
 - 04/11/23 - Water Seven s18e14 added
 - 13/11/23 - WANO s34e35 Added
+- 17/11/23 - Skypia s16e09 Added
 
 ## Support
 
