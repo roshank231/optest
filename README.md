@@ -52,6 +52,7 @@ This Addon mainly focuses on pre-time skip arcs once you get past "impel Down" t
 - 17/11/23 - Skypia s16e09 Added
 - 01/12/23 - Arabasta s14e02 and s14e04 Updated, Added Skypiea s16e10
 - 08/12/23 - Wano s34e36 Added
+- 16/12/23 - Wano s34e37 Added
 
 ## Support
 
