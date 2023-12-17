@@ -45,6 +45,14 @@ This addon integrates One Piece KAI episodes to fill in missing sections in One 
 This Addon mainly focuses on pre-time skip arcs once you get past "impel Down" there are no more gaps filled by One Piece KAI, you are better off switching to the original [OnePace addon](https://github.com/fedew04/OnePaceStremio) as this is being actively updated with the latest episodes as the one pace team release them.
 
 - 30/09/23 - Jaya Updated
+- 29/10/23 - Buggy's Crew, Skypiea & Wano Updated
+- 01/11/23 - Fixed title for Fishman Island s28e16, Changed The Trials of Koby-Meppo s11e03 to s11e01
+- 04/11/23 - Water Seven s18e14 Added
+- 13/11/23 - Wano s34e35 Added
+- 17/11/23 - Skypia s16e09 Added
+- 01/12/23 - Arabasta s14e02 and s14e04 Updated, Added Skypiea s16e10
+- 08/12/23 - Wano s34e36 Added
+- 16/12/23 - Wano s34e37 Added
 
 ## Support
 
