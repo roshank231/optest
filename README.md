@@ -1,5 +1,8 @@
 # OnePace X OnePiece Kai Stremio Addon
 
+No Longer maintained, use https://github.com/au2001/onepace-stremio
+
+
 ## Overview
 
 ### This project is just a mod of the Orginal addon you  can find here: [OnePace addon](https://github.com/fedew04/OnePaceStremio)
